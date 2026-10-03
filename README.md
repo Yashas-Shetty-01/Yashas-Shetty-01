@@ -1,33 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:FF3366,50:C724B1,100:1a1a2e&height=250&section=header&text=Yashas%20V%20Shetty&fontSize=50&fontColor=ffffff&animation=twinkling&fontAlignY=30&desc=AI%20%26%20Machine%20Learning%20Student&descAlignY=52&descSize=20"/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF3366&center=true&vCenter=true&width=650&lines=AI+%26+ML+Student+%F0%9F%A4%96;Building+with+TypeScript+%2B+JavaScript;Exploring+AI+Tools+%26+Frontend+Craft;Shipping+arthmitra-ai+%26+samrat-enclave"/>
-</a>
-
-<br/>
-
-<img src="https://komarev.com/ghpvc/?username=Yashas-Shetty-01&color=FF3366&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/Yashas-Shetty-01?color=C724B1&style=for-the-badge&label=FOLLOWERS&logo=github"/>
-
-</div>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-<img src="https://img.shields.io/badge/AI%20Tools-FF3366?style=for-the-badge&logo=openai&logoColor=white"/>
-
-</div>
-
-<br/>
-
-## 🧠 Who I Am
+### Hi there, I'm Yashas V Shetty 👋
 
 ```typescript
 const yashas: Developer = {
@@ -39,7 +10,7 @@ const yashas: Developer = {
     frontend: ["TypeScript", "JavaScript", "HTML", "CSS"],
   },
   openToRoles: ["AI/ML Internships", "Frontend Development"],
-  currentFocus: "arthmitra-ai & samrat-enclave",
+  currentFocus: ["arthmitra-ai", "samrat-enclave"],
 };
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
 <div align="center">
@@ -53,12 +24,18 @@ const yashas: Developer = {
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-Shetty-01&theme=radical&hide_border=true&background=1a1a2e&stroke=FF3366&ring=C724B1&fire=FF3366&currStreakLabel=FF3366"/>
 </div>
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-🔹 arthmitra-ai
-AI Tools TypeScript JavaScript
+🚀 Current Focus
+<table width="100%">
+<tr>
+<td width="50%" align="center">
+<b>🔹 arthmitra-ai</b>
+
+<i>AI Tools • TypeScript • JavaScript</i>
 </td>
-<td width="50%">
-🔹 samrat-enclave
-TypeScript JavaScript HTML CSS
+<td width="50%" align="center">
+<b>🔹 samrat-enclave</b>
+
+<i>TypeScript • JavaScript • HTML • CSS</i>
 </td>
 </tr>
 </table>
@@ -78,9 +55,6 @@ TypeScript JavaScript HTML CSS
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
-<br/>
+
+
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:C724B1,100:FF3366&height=150&section=footer"/>
-<div align="center">
-<img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0"/>
-</div>
-```
