@@ -8,8 +8,8 @@
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=shettyyashas001-cmyk&color=FF3366&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/shettyyashas001-cmyk?color=C724B1&style=for-the-badge&label=FOLLOWERS&logo=github"/>
+<img src="https://komarev.com/ghpvc/?username=Yashas-Shetty-01&color=FF3366&style=for-the-badge&label=PROFILE+VIEWS"/>
+<img src="https://img.shields.io/github/followers/Yashas-Shetty-01?color=C724B1&style=for-the-badge&label=FOLLOWERS&logo=github"/>
 
 </div>
 
@@ -41,86 +41,46 @@ const yashas: Developer = {
   openToRoles: ["AI/ML Internships", "Frontend Development"],
   currentFocus: "arthmitra-ai & samrat-enclave",
 };
-```
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🏆 Trophies
-
 <div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=shettyyashas001-cmyk&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
+<img src="https://github-profile-trophy.vercel.app/?username=Yashas-Shetty-01&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=1&column=6"/>
 </div>
-
-## 📊 GitHub Stats
-
 <div align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=shettyyashas001-cmyk&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF3366&icon_color=C724B1&text_color=ffffff&ring_color=FF3366" width="49%"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shettyyashas001-cmyk&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF3366&text_color=ffffff" width="35%"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashas-Shetty-01&show_icons=true&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF3366&icon_color=C724B1&text_color=ffffff&ring_color=FF3366" width="49%"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashas-Shetty-01&layout=compact&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF3366&text_color=ffffff" width="35%"/>
 </div>
-
 <div align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=shettyyashas001-cmyk&theme=radical&hide_border=true&background=1a1a2e&stroke=FF3366&ring=C724B1&fire=FF3366&currStreakLabel=FF3366"/>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashas-Shetty-01&theme=radical&hide_border=true&background=1a1a2e&stroke=FF3366&ring=C724B1&fire=FF3366&currStreakLabel=FF3366"/>
 </div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-### 🔹 arthmitra-ai
-
-[![arthmitra-ai](https://github-readme-stats.vercel.app/api/pin/?username=shettyyashas001-cmyk&repo=arthmitra-ai&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF3366&text_color=ffffff&icon_color=C724B1)](https://github.com/shettyyashas001-cmyk/arthmitra-ai)
-
-`AI Tools` `TypeScript` `JavaScript`
-
-🔗 [View Code](https://github.com/shettyyashas001-cmyk/arthmitra-ai)
-
+🔹 arthmitra-ai
+AI Tools TypeScript JavaScript
 </td>
 <td width="50%">
-
-### 🔹 samrat-enclave
-
-[![samrat-enclave](https://github-readme-stats.vercel.app/api/pin/?username=shettyyashas001-cmyk&repo=samrat-enclave&theme=radical&hide_border=true&bg_color=1a1a2e&title_color=FF3366&text_color=ffffff&icon_color=C724B1)](https://github.com/shettyyashas001-cmyk/samrat-enclave)
-
-`TypeScript` `JavaScript` `HTML` `CSS`
-
-🔗 [View Code](https://github.com/shettyyashas001-cmyk/samrat-enclave)
-
+🔹 samrat-enclave
+TypeScript JavaScript HTML CSS
 </td>
 </tr>
 </table>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 📈 Contribution Activity
-
+📈 Contribution Activity
 <div align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=shettyyashas001-cmyk&theme=react-dark&hide_border=true&color=FF3366&line=FF3366&point=ffffff&area=true&area_color=C724B1"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashas-Shetty-01&theme=react-dark&hide_border=true&color=FF3366&line=FF3366&point=ffffff&area=true&area_color=C724B1"/>
 </div>
-
-## 🐍 Contribution Snake
-
+🐍 Contribution Snake
 <div align="center">
-<img src="https://raw.githubusercontent.com/shettyyashas001-cmyk/shettyyashas001-cmyk/output/github-contribution-grid-snake.svg"/>
+<img src="https://raw.githubusercontent.com/Yashas-Shetty-01/Yashas-Shetty-01/output/github-contribution-grid-snake.svg"/>
 </div>
-
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.gif" width="100%"/>
-
-## 🌐 Connect With Me
-
+🌐 Connect With Me
 <div align="center">
 <a href="https://www.linkedin.com/in/yashas-v-shetty3">
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </div>
-
 <br/>
-
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,50:C724B1,100:FF3366&height=150&section=footer"/>
-
 <div align="center">
 <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="0" height="0"/>
 </div>
+```
