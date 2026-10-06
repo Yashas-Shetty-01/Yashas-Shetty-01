@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF3366&height=220&section=header&text=Yashas%20V%20Shetty&fontSize=50&fontColor=FFFFFF&animation=twinkling&fontAlignY=35&desc=AI%20%26%20ML%20Student&descSize=22&descAlignY=58" width="100%" alt="header" />
+<img src="./assets/header.svg" width="100%" alt="header" />
 
 <div align="center">
 
@@ -78,4 +78,4 @@ const yashas = {
 </div>
 
 <!-- FOOTER -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:FF3366&height=120&section=footer" width="100%" alt="footer" />
+<img src="./assets/footer.svg" width="100%" alt="footer" />
